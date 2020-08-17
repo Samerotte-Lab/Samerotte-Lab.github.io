@@ -4,14 +4,14 @@
 <div class="bigspacer"></div>
 
 <div class="row">
-	<div class="col-md-3">
+	<div class="col-md-5">
 		<div class="media">
 			{% if member.image %}
 			<img class="pull-left pad-right big-member-photo" src="{{ member.image }}">
 			{% endif %}
 		</div>
 	</div>
-	<div class="col-md-9">
+	<div class="col-md-7">
 		<div class="pull-left pad-right media-body titlebox">
 			<div class="title media-heading">
 				{{ member.title }}
@@ -27,7 +27,7 @@
 <div class="bigspacer"></div>
 
 <div class="row">
-	<div class="col-md-3">  			
+	<div class="col-md-5">  			
 		{% if member.cv %}		
 		<div class="smallhead">
 			CV
@@ -85,7 +85,7 @@
 		<div class="bigspacer"></div>			
 		{% endif %}						
 	</div>
-	<div class="col-md-8">	
+	<div class="col-md-7">	
 		<div class="post">
 			{{ content }}
 		</div>
@@ -130,5 +130,4 @@
 		{% endif %}	
 		
 	</div>			
-	<div class="col-md-1"></div>
 </div>	
