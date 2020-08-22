@@ -2,9 +2,9 @@
 layout: paper
 title: "The details in the distributions: How and why to study variability"
 year: "2013"
-shortref: "Geiler-Samerotte et al. Curr Opin Biotechnol 2013"
+shortref: "Geiler-Samerotte et al. Curr. Opin. Biotechnol. 2013"
 nickname: details-in-distributions
-journal: "Curr Opin Biotechnol"
+journal: "Curr. Opin. Biotechnol."
 volume: 24
 issue: 
 pages: 752-759

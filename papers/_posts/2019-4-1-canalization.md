@@ -2,9 +2,9 @@
 layout: paper
 title: "Decanalizing thinking on genetic canalization"
 year: "2019"
-shortref: "Geiler-Samerotte et al. Sem Cell Dev Biol 2019"
+shortref: "Geiler-Samerotte et al. Sem. Cell Dev. Biol. 2019"
 nickname: canalization-review
-journal: "Sem Cell Dev Biol"
+journal: "Sem. Cell Dev. Biol."
 volume: 88
 issue: 
 pages: 54-66

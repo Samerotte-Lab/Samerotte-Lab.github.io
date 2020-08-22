@@ -9,7 +9,7 @@ volume:
 issue: 
 pages: 
 authors: "Geiler-Samerotte K, Li S, Lazaris C, Taylor A, Ziv N, Ramjeawan C, Paaby A, Siegal ML"
-image: /assets/images/papers/2020-pleiotropy.png
+image: /assets/images/papers/pleiotropy.png
 pdf: https://www.biorxiv.org/content/10.1101/700716v2.full.pdf
 pdflink: 
 github: 

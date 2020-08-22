@@ -9,7 +9,7 @@ volume: 108
 issue: 
 pages: 680-685
 authors: "Geiler-Samerotte K, Dion M, Budnik B, Wang S, Hartl D, Drummond DA"
-image: /assets/images/papers/Misfolding-2011.png
+image: /assets/images/papers/mf.png
 pdf: https://www.pnas.org/content/pnas/108/2/680.full.pdf
 pdflink: 
 github: 

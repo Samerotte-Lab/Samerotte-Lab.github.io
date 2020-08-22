@@ -9,7 +9,7 @@ volume: 14
 issue: 10
 pages: e2000465
 authors: "Geiler-Samerotte K, Zhu Y, Goulet B, Hall D, Siegal ML"
-image: /assets/images/papers/Hsp90-2016-vertical.png
+image: /assets/images/papers/Hsp90-smaller.png
 pdf: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2000465&type=printable
 pdflink: 
 github: 
