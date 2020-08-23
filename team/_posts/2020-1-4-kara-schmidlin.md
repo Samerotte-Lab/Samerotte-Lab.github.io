@@ -10,4 +10,5 @@ github:
 scholar: 
 image: /assets/images/team/Kara.png
 alum: false
+hs: false
 ---

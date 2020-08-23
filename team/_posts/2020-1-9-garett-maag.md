@@ -10,4 +10,5 @@ github:
 scholar: 
 image: /assets/images/team/Garett.png
 alum: false
+hs: false
 ---

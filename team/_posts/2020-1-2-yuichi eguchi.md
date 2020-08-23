@@ -10,5 +10,6 @@ github:
 scholar: 
 image: /assets/images/team/Ichi.png
 alum: false
+hs: false
 ---
 Dr. Yuichi Eguchi is a postdoctoral researcher in the School of Life Sciences at Arizona State University. 

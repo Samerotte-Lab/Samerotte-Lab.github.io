@@ -10,4 +10,5 @@ github:
 scholar: 
 image: /assets/images/team/Sam.png
 alum: false
+hs: false
 ---
