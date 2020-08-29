@@ -2,6 +2,7 @@
 layout: member
 title: "Amy Diyya"
 position: Undergraduate
+years: 2019 - 2020
 handle: 
 nickname: 
 email: adiyya@asu.edu 

@@ -2,6 +2,7 @@
 layout: member
 title: "Avery Fry"
 position: Undergraduate
+years: 2019 - 2020
 handle: 
 nickname: 
 email: defry@asu.edu  

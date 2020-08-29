@@ -8,6 +8,10 @@ navorder: 2
 {% include JB/setup %}
 
 <div class="bigspacer"></div>
+<div class="bigtitle text-center">Current Lab Members</div>
+<div class="bigspacer"></div>
+
+<div class="bigspacer"></div>
 {% assign current_team = site.categories.team | where: "alum","false" | where: "hs","false" %}
 {% assign memberindex = 0 %}
 {% for member in current_team reversed %}
@@ -37,10 +41,12 @@ navorder: 2
 
 <div class="bigspacer"></div>
 <hr/>
+<div class="bigtitle text-center">Lab Photos</div>
+<div class="bigspacer"></div>
 
 <div class="row">
 	<div class="col-md-12">
-		<img class="team-photo" src="/assets/images/team/logo1.png"/>
+		<img class="team-photo" src="/assets/images/team/Lab_Photo_2020.png"/>
 	</div>
 </div>
 
@@ -64,7 +70,7 @@ navorder: 2
 				</a>
 			 	<div class="media-body">
 				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
-				<p class="note">{{ member.position }}</p>
+				<p class="note">{{ member.position }}<br />{{ member.years }}</p>
 				</div>
 		</div>
     </div>	  
@@ -78,6 +84,7 @@ navorder: 2
 
 <div class="bigspacer"></div>
 <hr/>
+
 <div class="bigtitle text-center">Women in Science Training Program</div>
 <div class="bigspacer"></div>
 
