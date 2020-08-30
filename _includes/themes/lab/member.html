@@ -10,25 +10,8 @@
 			<img class="pull-left pad-right big-member-photo" src="{{ member.image }}">
 			{% endif %}
 		</div>
-	</div>
-	<div class="col-md-7">
-		<div class="pull-left pad-right media-body titlebox">
-			<div class="title media-heading">
-				{{ member.title }}
-			</div>
-			<br/>
-			<div class="smallhead">
-				{{ member.position }}
-			</div>
-		</div>
-	</div>				
-</div>
-
-<div class="bigspacer"></div>
-
-<div class="row">
-	<div class="col-md-5">  			
-		{% if member.cv %}		
+		<div class="bigspacer"></div>
+		{% if member.cv %}				
 		<div class="smallhead">
 			CV
 		</div>	
@@ -68,7 +51,7 @@
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-book fa-fw"></i>
-			<a class="off" href="http://scholar.google.com/citations?user={{ member.scholar }}">{{ member.title }}</a>
+			<a class="off" href="{{ member.scholar }}">{{ member.title }}</a>
 		</div>		
 		<div class="bigspacer"></div>	
 		{% endif %}				   	
@@ -85,49 +68,64 @@
 		<div class="bigspacer"></div>			
 		{% endif %}						
 	</div>
-	<div class="col-md-7">	
-		<div class="post">
-			{{ content }}
-		</div>
-		
-		{% assign lastname = member.title | split: ' ' | last %}
-		{% for paper in site.categories.papers %}
-			{% if paper.authors contains lastname %}
-				{% assign papersq = true %}
-			{% endif %}
-		{% endfor %}
-
-		{% if papersq == true %}
-			<div class="bigspacer"></div>
-			<div class="head">Papers</div>
-			<div class="spacer"></div>
-			{% for paper in site.categories.papers %}
-				{% if paper.authors contains lastname %}
-					{% if paper.embargo %}
-					<p>{{ paper.title }}
-					{% else %}
-					<p><a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
+	<div class="col-md-7">
+		<div class="pull-left pad-right media-body titlebox">
+			<div class="title media-heading">
+				{{ member.title }}
+			</div>
+			<br/>
+			<div class="smallhead">
+				{{ member.position }}
+			</div>
+			<br/>
+			<div class="post">
+					{{ content }}
+				</div>
+				{% assign lastname = member.title | split: ' ' | last %}
+				{% for paper in site.categories.papers %}
+					{% if paper.authors contains lastname %}
+						{% assign papersq = true %}
 					{% endif %}
-				{% endif %}
-			{% endfor %}
-		{% endif %}		
+				{% endfor %}
 		
-		{% for post in site.categories.blog %}
-			{% if member.handle == post.author_handle %}
-				{% assign postsq = true %}
-			{% endif %}
-		{% endfor %}
+				{% if papersq == true %}
+					<div class="bigspacer"></div>
+					<div class="head">Recent Papers</div>
+					<div class="spacer"></div>
+					{% for paper in site.categories.papers %}
+						{% if paper.authors contains lastname %}
+							{% if paper.embargo %}
+							<p>{{ paper.title }}
+							{% else %}
+							<p><a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+				{% endif %}		
+				
+				{% for post in site.categories.blog %}
+					{% if member.handle == post.author_handle %}
+						{% assign postsq = true %}
+					{% endif %}
+				{% endfor %}
+				
+				{% if postsq == true %}
+					<div class="bigspacer"></div>
+					<div class="head">Posts</div>
+					<div class="spacer"></div>
+					{% for post in site.categories.blog %}
+						{% if member.handle == post.author_handle %}
+							<p><a href="{{ post.url }}" class="off">{{ post.title }}</a>
+						{% endif %}
+					{% endfor %}
+				{% endif %}	
+		</div>
+	</div>				
+</div>
+
+
 		
-		{% if postsq == true %}
-			<div class="bigspacer"></div>
-			<div class="head">Posts</div>
-			<div class="spacer"></div>
-			{% for post in site.categories.blog %}
-				{% if member.handle == post.author_handle %}
-					<p><a href="{{ post.url }}" class="off">{{ post.title }}</a>
-				{% endif %}
-			{% endfor %}
-		{% endif %}	
+	
 		
 	</div>			
 </div>	

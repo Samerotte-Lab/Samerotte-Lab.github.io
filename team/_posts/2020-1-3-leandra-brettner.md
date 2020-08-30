@@ -7,7 +7,7 @@ nickname:
 email: leandra.brettner@asu.edu
 twitter: LeandraBrettner
 github: 
-scholar: 
+scholar: https://scholar.google.com/citations?hl=en&user=o6a1o3QAAAAJ
 image: /assets/images/team/Leandra.png
 alum: false
 hs: false

@@ -7,7 +7,7 @@ nickname: Ichi
 email: yeguchi@asu.edu
 twitter: YE_lab
 github: 
-scholar: 
+scholar: https://scholar.google.com/citations?hl=en&user=B9Z2POIAAAAJ
 image: /assets/images/team/Ichi.png
 alum: false
 hs: false
