@@ -3,7 +3,7 @@ layout: paper
 title: "A Δ11 desaturase gene genealogy reveals two divergent allelic classes within the European corn borer"
 year: "2010"
 shortref: "Geiler and Harrison. BMC Evol. Biol. 2010"
-nickname: Harrison
+nickname: desaturase
 journal: "BMC Evol. Biol."
 volume: 
 issue: 

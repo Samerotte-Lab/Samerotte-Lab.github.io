@@ -3,7 +3,7 @@ layout: paper
 title: "Emerging frontiers in molecular evolution"
 year: "2020"
 shortref: "Liberles et al. J. Mol. Evol. 2020"
-nickname: local
+nickname: emerging-frontiers-molecular-evolution
 journal: "J. Mol. Evol."
 volume: 28
 issue: 3

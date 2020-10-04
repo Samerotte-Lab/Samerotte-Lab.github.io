@@ -3,7 +3,7 @@ layout: paper
 title: "A genotype-phenotype-fitness map reveals local modularity and global pleiotropy"
 year: "2020"
 shortref: "Kinsler et al. bioRxiv 2020"
-nickname: local
+nickname: local-modularity-global-pleiotropy
 journal: "bioRxiv"
 volume: 
 issue: 

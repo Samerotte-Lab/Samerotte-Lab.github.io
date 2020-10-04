@@ -3,7 +3,7 @@ layout: paper
 title: "Development of a comprehensive genotype-to-fitness map of adaptation-driving mutations in yeast"
 year: "2016"
 shortref: "Venkataram et al. Cell 2016"
-nickname: venkataram
+nickname: genotype-fitness-map
 journal: "Cell"
 volume: 166
 issue: 6

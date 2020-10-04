@@ -3,7 +3,7 @@ layout: paper
 title: "Questioning buffering"
 year: "2016"
 shortref: "Geiler-Samerotte et al. Cell Systems 2016"
-nickname: questioning buffering
+nickname: questioning-buffering
 journal: "Cell Systems"
 volume: 3
 issue: 

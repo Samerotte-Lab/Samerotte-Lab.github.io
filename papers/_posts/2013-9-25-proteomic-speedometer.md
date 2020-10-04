@@ -3,7 +3,7 @@ layout: paper
 title: "Quantifying condition-dependent intracellular protein levels enables high-precision fitness estimates"
 year: "2013"
 shortref: "Geiler-Samerotte et al. PLOS ONE 2013"
-nickname: speedometer
+nickname: proteomic-growth-measurements
 journal: "PLOS ONE"
 volume: 8
 issue: 
