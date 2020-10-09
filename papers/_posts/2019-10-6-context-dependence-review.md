@@ -3,7 +3,7 @@ layout: paper
 title: "Why and how to study genetic changes with context-dependent effects"
 year: "2019"
 shortref: "Eguchi et al. Curr. Op. Genet. Dev. 2019"
-nickname: why study context dependence
+nickname: why-study-context-dependence
 journal: "Curr. Opin. Genet. Dev."
 volume: 58–59
 issue: 
