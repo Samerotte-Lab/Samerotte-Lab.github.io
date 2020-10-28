@@ -9,7 +9,7 @@ volume: 58–59
 issue: 
 pages: 95-102
 authors: "Eguchi Y, Bilolikar G, Geiler-Samerotte K"
-image: /assets/images/papers/cd-review.png
+image: /assets/themes/lab/images/banner/banner.png
 pdf: /assets/pdfs/Eguchi-2019.pdf
 pdflink: 
 github: 
