@@ -7,6 +7,6 @@ author_handle: "dad"
 category: news
 tags: [publication]
 ---
-Ichi, Gaurav and Kerry publish a [review] paper on context dependence
+Ichi, Gaurav and Kerry publish a [review] paper on why and how to study context dependence.
 
 [review]: http://kgslab.org/papers/paper/context-dependence-review
