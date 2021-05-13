@@ -1,23 +1,23 @@
 ---
 layout: paper
-title: "A genotype-phenotype-fitness map reveals local modularity and global pleiotropy"
+title: "Fitness variation across subtle environmental perturbations reveals local modularity and global pleiotropy of adaptation"
 year: "2020"
-shortref: "Kinsler et al. bioRxiv 2020"
+shortref: "Kinsler & Geiler-Samerotte et al. eLife 2020"
 nickname: local-modularity-global-pleiotropy
-journal: "bioRxiv"
+journal: "eLife"
 volume: 
 issue: 
 pages: 
 authors: "Kinsler G*, Geiler-Samerotte K*, Petrov D"
 image: /assets/images/papers/local4.png
 pdf: 
-pdflink: https://www.biorxiv.org/content/10.1101/2020.06.25.172197v3
+pdflink: https://elifesciences.org/articles/61271
 github: 
 pmid: 
 pmcid: 
 f1000: 
 figshare: 
-doi: 10.1101/2020.06.25.172197
+doi: 10.7554/eLife.61271
 category: paper
 published: true
 peerreview: true
