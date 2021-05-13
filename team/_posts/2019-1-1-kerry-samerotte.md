@@ -5,7 +5,7 @@ position: Principal investigator
 handle: ksamerotte
 nickname: Kerry
 email: kerry.samerotte@asu.edu
-cv: file.pdf
+cv: 
 twitter: ksamerotte
 github: 
 scholar: https://scholar.google.com/citations?user=fzhn8f4AAAAJ&hl=en&oi=ao
