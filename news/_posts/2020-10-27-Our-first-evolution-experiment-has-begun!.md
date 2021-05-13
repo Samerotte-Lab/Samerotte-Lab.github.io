@@ -7,6 +7,6 @@ author_handle: "dad"
 category: news
 tags: [publication]
 ---
-Kara and Sam have started 12 evolution experiments, each one follows a populations of ~500,000 barcoded yeast cells as they evolve drug resistance. Follow us on twitter! [#KGSlabEvolves]
+Kara and Sam have started 12 evolution experiments, each one follows a population of ~500,000 barcoded yeast cells as they evolve drug resistance. Follow us on twitter! [#KGSlabEvolves]
 
 [#KGSlabEvolves]: https://twitter.com/KaraSchmidlin/status/1330584401843875840
