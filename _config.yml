@@ -16,11 +16,11 @@ repository: Samerotte-Lab/Samerotte-Lab.github.io
 title : Geiler-Samerotte Lab
 tagline: Some tagline
 institution:
+  url: https://biodesign.asu.edu/research/centers/mechanisms-evolution
+  name: Center for Mechanisms of Evolution
+department:
   url: https://www.asu.edu
   name: Arizona State University
-department:
-  url: https://biodesign.asu.edu
-  name: Biodesign Institute
 author :
   name : Kerry A. Geiler-Samerotte
   email : kerry.samerotte@asu.edu
