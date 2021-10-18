@@ -8,7 +8,7 @@ email: ntquan@asu.edu
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/Natalie.png
+image: /assets/images/team/Nat.png
 alum: false
 hs: false
 ---
