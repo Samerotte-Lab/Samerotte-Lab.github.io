@@ -8,7 +8,7 @@ journal: "Current Opinion in Genetics and Development"
 volume: 
 issue: 
 pages: 
-authors: "Brettner, L., Ho, W., Schmidlin, K., Apodaca, S., Eder, R., Geiler-Samerotte, K."
+authors: "Brettner, L., Ho, WC., Schmidlin, K., Apodaca, S., Eder, R., Geiler-Samerotte, K."
 image: /assets/images/papers/adaptation.png
 pdf: https://reader.elsevier.com/reader/sd/pii/S0959437X22000600?token=D0BBBC47A9F7BF6DB0C1F7848499378F26869A4BAFCD494C6A2122D96E8B42D8445D01DEBE191E05AB3CA5737DC9E6AE&originRegion=us-east-1&originCreation=20220930184006
 pdflink: 
