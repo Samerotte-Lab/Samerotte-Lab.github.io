@@ -2,6 +2,7 @@
 layout: member
 title: "Daphne Newell"
 position: Undergraduate
+years: 2019 – 2022
 handle: 
 nickname: 
 email: dnewell4@asu.edu 

@@ -2,6 +2,7 @@
 layout: member
 title: "Gaurav Bilolikar"
 position: PhD student
+years: 2019 – 2022
 handle: 
 nickname: 
 email: gbilolikar@asu.edu 

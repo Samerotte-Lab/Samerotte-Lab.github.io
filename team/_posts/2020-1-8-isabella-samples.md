@@ -2,6 +2,7 @@
 layout: member
 title: "Isabella Samples"
 position: Undergraduate
+years: 2020 – 2021
 handle: 
 nickname: 
 email: iasample@asu.edu
