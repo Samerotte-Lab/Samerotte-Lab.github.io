@@ -2,6 +2,7 @@
 layout: member
 title: "Yuichi Eguchi"
 position: Postdoctoral Researcher
+years: 2019 – 2022
 handle: 
 nickname: Ichi
 email: yeguchi@asu.edu
