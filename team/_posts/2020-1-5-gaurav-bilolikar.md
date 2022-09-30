@@ -9,7 +9,7 @@ twitter: GBilolikar
 github: 
 scholar: https://scholar.google.com/citations?hl=en&user=Y1-i0-8AAAAJ
 image: /assets/images/team/Gaurav.png
-alum: false
+alum: true
 hs: false
 ---
 Gaurav Bilolikar is a graduate student in the Evolutionary Biology PhD program at School of Life Sciences at Arizona State University.

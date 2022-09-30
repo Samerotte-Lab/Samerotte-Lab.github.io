@@ -9,7 +9,7 @@ twitter:
 github: 
 scholar: 
 image: /assets/images/team/Bella.png
-alum: false
+alum: true
 hs: false
 ---
 Bella is an undergraduate at Arizona State University. She started in the KGS lab as a high school student. 
