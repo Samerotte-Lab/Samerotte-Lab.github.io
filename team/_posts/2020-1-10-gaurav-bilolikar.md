@@ -1,0 +1,20 @@
+---
+layout: member
+title: "Gaurav Bilolikar"
+position: Master's student
+years: 2019 – 2022
+handle: 
+nickname: 
+email: gbilolikar@asu.edu 
+twitter: GBilolikar
+github: 
+scholar: https://scholar.google.com/citations?hl=en&user=Y1-i0-8AAAAJ
+image: /assets/images/team/Gaurav.png
+alum: true
+hs: false
+---
+Gaurav Bilolikar obtained his second Master's degree in the Evolutionary Biology program at School of Life Sciences at Arizona State University.
+
+Gaurav obtained his bachelors and first masters degree in Biological Engineering from Indian Institute of Technology in Madras, India. During his undergraduate years, Gaurav worked on various topics such as Meta-genomics, Synthetic Biology, and Evolutionary Biology. He became especially interested in understanding how simple units (such as genes) interact with each other to choreograph the evolution of complex traits and behaviors. This motivated him to choose his master's thesis project in Evolutionary Biology. He used local regression models to understand evolutionary patterns of gene expression across various mammalian tissues. Gaurav was advised by Himanshu Sinha for his thesis.
+
+At Arizona State University, Gaurav investigated the response of gene regulatory network components to subtle perturbations, and to understand the evolutionary mechanisms that orchestrate these responses. When he is in his den, he likes doing science illustrations, clicking pictures, playing video games, and searching for the meaning of life.
