@@ -54,7 +54,8 @@ navorder: 6
 		<div class="col-md-8">		
 			<div style="height:5px;"></div>			
 			{% if post.image %}
-			<a href="{{ post.url }}"><img class="offset" src="{{ post.image }}"></a>
+			<div class="media">
+				<img width=100 class="offset" src="{{ paper.image }}"/>
 			{% endif %}
 			<div class="post">
 				{{ post.content }}
