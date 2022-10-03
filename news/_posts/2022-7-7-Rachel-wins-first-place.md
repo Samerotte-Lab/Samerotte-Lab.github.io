@@ -3,7 +3,7 @@ layout: news
 title: "Rachel wins first place"
 author: "Kerry"
 author_handle: 
-image: /assets/images/papers/RachelWin.png
+image: /assets/images/news/RachelWin.png
 category: news
 tags: [publication]
 ---
