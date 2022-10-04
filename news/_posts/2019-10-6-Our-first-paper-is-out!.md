@@ -3,7 +3,7 @@ layout: news
 title: "Our first paper is out!"
 author: "Kerry"
 author_handle: "dad"
-#image: /assets/images/papers/cd-review.png
+image: /assets/images/papers/cd-review.png
 category: news
 tags: [publication]
 ---
