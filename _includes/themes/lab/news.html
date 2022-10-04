@@ -3,12 +3,13 @@
 </div>
 
 <div class="row">
-  <div style="height:5px;"></div>			
-  {% if post.image %}
-  <img width = 200 class="offset" src="{{ post.image }}"></a>
-  {% endif %}
-<div class="col-md-1"></div>
-</div>	
+	<div class="col-md-5">
+		<div class="media">
+			{% if post.image %}
+			<img class="pull-left pad-right big-member-photo" src="{{ post.image }}">
+			{% endif %}
+		</div>
+  </div>
 
 <div class="row post-full">
   <div class="col-xs-12">
