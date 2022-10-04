@@ -12,4 +12,4 @@ image: /assets/images/team/IsabellaVI.png
 alum: false
 hs: false
 ---
-Isabella Valli-Doherty is an undergraduate student in the School of Life Sciences and Barrett Honors College at Arizona State University. 
+Isabella Valli-Doherty is an undergraduate student in the Ira Fulton School of Engineering and Barrett Honors College at Arizona State University. 
