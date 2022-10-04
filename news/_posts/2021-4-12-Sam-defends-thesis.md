@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Sam defends thesis"
+title: "Sam defends honors thesis"
 author: "Kerry"
 author_handle: "dad"
 image: /assets/images/news/SamDefense.png

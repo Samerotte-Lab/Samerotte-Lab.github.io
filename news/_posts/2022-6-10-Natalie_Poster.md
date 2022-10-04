@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Natalie selected for poster talk at ASM"
+title: "Natalie shows poster at ASM"
 author: "Kerry"
 author_handle: 
 image: /assets/images/news/NatPost.png

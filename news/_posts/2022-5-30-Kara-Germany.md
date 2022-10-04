@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Kara presents her research in Germany"
+title: "Kara presents in Germany"
 author: "Kerry"
 author_handle: 
 image: /assets/images/news/KaraGermany.png

@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Rachel talks at AZ BioSci Southwest Symposium"
+title: "Rachel talks at AZ BioSci"
 author: "Kerry"
 author_handle: 
 image: /assets/images/news/RachelBioSci.png

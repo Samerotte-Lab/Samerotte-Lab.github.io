@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "eLife-paper-receives-attention"
+title: "eLife paper receives attention"
 author: "Kerry"
 author_handle: "dad"
 image: /assets/images/news/Kinsler.png
