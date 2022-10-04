@@ -4,10 +4,12 @@
 
 <div class="bigspacer"></div>
 
-<div class="row post-full">
+<div class="row">
+		<div class="media">
 			{% if post.image %}
-			<img width = 400 class="offset" src="{{ post.image }}">
+			<img class="pull-left pad-right media-object post-image" src="{{ post.image }}">
 			{% endif %}
+		</div>
 </div>
 
 <div class="bigspacer"></div>
