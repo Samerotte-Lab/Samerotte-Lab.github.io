@@ -3,7 +3,7 @@ layout: news
 title: "Kerry wins a Sloan Fellowship"
 author: "Kerry"
 author_handle: "dad"
-image: /assets/images/papers/Sloan.png
+image: /assets/images/news/Sloan.png
 category: news
 tags: [publication]
 ---

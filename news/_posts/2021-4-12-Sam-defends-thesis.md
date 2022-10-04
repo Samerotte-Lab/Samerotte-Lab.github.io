@@ -3,7 +3,7 @@ layout: news
 title: "Sam defends thesis"
 author: "Kerry"
 author_handle: "dad"
-image: /assets/images/papers/SamDefense.png
+image: /assets/images/news/SamDefense.png
 category: news
 tags: [publication]
 ---

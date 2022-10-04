@@ -3,7 +3,7 @@ layout: news
 title: "Evolution experiment has begun!"
 author: "Kerry"
 author_handle: "dad"
-image: /assets/images/papers/Evolution.png
+image: /assets/images/news/Evolution.png
 category: news
 tags: [publication]
 ---
