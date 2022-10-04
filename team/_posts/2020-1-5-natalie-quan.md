@@ -5,7 +5,7 @@ position: PhD Student
 handle: 
 nickname: 
 email: ntquan@asu.edu 
-twitter: 
+twitter: natalie_quan
 github: 
 scholar: 
 image: /assets/images/team/NatalieNew.png
