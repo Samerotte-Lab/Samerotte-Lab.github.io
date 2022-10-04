@@ -3,7 +3,7 @@ layout: news
 title: "Leandra gives a talk at YEAST 2022"
 author: "Kerry"
 author_handle: 
-image: /assets/images/news/LeandraYEAST.png
+image: /assets/images/news/LeandraYeast.png
 category: news
 tags: [publication]
 ---
