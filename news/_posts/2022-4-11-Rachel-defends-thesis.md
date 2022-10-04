@@ -3,7 +3,7 @@ layout: news
 title: "Rachel defends honors thesis"
 author: "Kerry"
 author_handle: 
-#image: /assets/images/papers/Evolution-in-progress.png
+image: /assets/images/papers/RachelDefense.png
 category: news
 tags: [publication]
 ---

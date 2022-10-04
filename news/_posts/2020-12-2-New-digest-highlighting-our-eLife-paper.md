@@ -3,7 +3,7 @@ layout: news
 title: "eLife-paper-receives-attention"
 author: "Kerry"
 author_handle: "dad"
-#image: /assets/images/papers/Evolution-in-progress.png
+image: /assets/images/papers/Kinsler.png
 category: news
 tags: [publication]
 ---

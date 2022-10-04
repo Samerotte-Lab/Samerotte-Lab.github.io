@@ -3,7 +3,7 @@ layout: news
 title: "Daphne defends honors thesis"
 author: "Kerry"
 author_handle: 
-#image: /assets/images/papers/Evolution-in-progress.png
+image: /assets/images/papers/DaphneDefense.png
 category: news
 tags: [publication]
 ---
