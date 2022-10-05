@@ -19,4 +19,4 @@ Kerry earned a bachelor's degree from Cornell University in 2004 in Ecology and 
 
 Kerry earned her PhD from Harvard University in 2011 in Organismal and Evolutionary Biology, co-advised by Daniel Hartl and D. Allan Drummond. Kerry's postdoctoral work was completed with Mark Siegal in the Center for Genomics and Systems Biology at New York University, as well as with Dmitri Petrov at Stanford University. 
 
-Kerry's interest in research began under the mentorship of her high school teacher, Paul Lichtman. Inspired by his mission to bring a love of science to underrepresented students, Kerry organizes a 'women in science training program' for high schoolers. See the [Team](https://kgslab.org/team) page to find out more.
+Kerry's interest in research began under the mentorship of her high school teacher, Paul Lichtman. Inspired by his mission to bring a love of science to underrepresented students, Kerry organizes a 'women in science training program' for high schoolers. See the [Outreach](https://kgslab.org/outreach) page to find out more.
