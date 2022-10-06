@@ -11,7 +11,13 @@ navorder: 1
 <div class="bigspacer"></div>
 {% for project in site.categories.projects %}
 <div class="bigspacer"></div>
-<div class="head text-center">{{ project.title }}</div>
+<!--<div class="head text-center">{{ project.title }}</div>-->
+<div class='row'>
+  <div class="col-md-8 paperbox">
+    {{ project.image }}
+    </div>
+  </div>
+</div>
 <div class="bigspacer"></div>
 <div class='row'>
   <!--
