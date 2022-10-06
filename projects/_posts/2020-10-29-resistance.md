@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Predicting the broader impacts of drug resistant mutations"
+title: "A genotype-phenotype map of drug resistance"
 handle: resistance
 image: /assets/images/papers/CS2.png
 category: project
@@ -8,4 +8,4 @@ tags: [evolution]
 ---
 {% include JB/setup %}
 
-Strategies in evolutionary medicine aim to thwart the evolution of drug resistance by using combinations of drugs that demonstrate “collateral sensitivity,” which is when mutants that resist Drug ‘A’ increase susceptibility to Drug ‘B’. Problematically, it often turns out that resistance and susceptibility are not inextricably linked, and some rare mutations exist that resist both drugs. Most technologies cannot quantify the prevalence of collateral sensitivity. We utilize a laboratory evolution platform that is perfect for doing so. Rather than identifying the most resistant mutants in Drug ‘A’, we can collect virtually all possible mutations that resist Drug ‘A’ and quantify their resistance to Drug ‘B’. Characterizing collateral sensitivity at this scale can reveal general mechanisms that turn advantageous mutations into costly ones. It can also inform about the degree of modularity in biological systems, ie, the degree to which mutations have limited v. multifaceted effects.
+Strategies in evolutionary medicine aim to thwart the evolution of drug resistance by using combinations of drugs that demonstrate “collateral sensitivity,” which is when mutants that resist Drug ‘A’ increase susceptibility to Drug ‘B’. Problematically, it often turns out that resistance and susceptibility are not inextricably linked, and some rare mutations exist that can [disrupt these correlations](https://kgslab.org/papers/paper/extent-of-pleiotropy). Most technologies cannot quantify the prevalence of collateral sensitivity. We utilize a laboratory evolution platform that is perfect for doing so in the model organism <i>S. cerevisiae</i>>. Rather than identifying the most resistant mutants in Drug ‘A’, we can collect many diverse mutations that resist Drug ‘A’. Then we quantify their resistance to Drug ‘B’ (and C, D, E...you get the idea). Characterizing tradeoffs at this scale reveals trends and limits that define a fitness landscape. These landscapes can have multiple peaks, corresponding to multiple ways to resist a drug that may come with different tradeoffs (e.g., some may come with or without collateral sensitivity to other drugs). By creating these types of [abstract genotype-phenotype maps](https://kgslab.org/papers/paper/local-modularity-global-pleiotropy), we can make predictions about how organisms will evolve when exposed to new conditions. 
