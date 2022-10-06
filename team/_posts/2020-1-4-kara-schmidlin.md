@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Kara Schmidlin"
-position: Research specialist
+position: Senior research specialist
 handle: 
 nickname: 
 email: kschmidl@asu.edu 
