@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Genotype-phenotype maps of drug resistance"
+title: "Building genotype-phenotype maps of drug resistance"
 handle: resistance
 image: /assets/images/papers/CS2.png
 category: project
