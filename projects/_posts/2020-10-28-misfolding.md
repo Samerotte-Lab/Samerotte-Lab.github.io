@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Quantifying the cost of mutations that cause protein misfolding"
+title: "Quantifying the context-dependent costs of misfolding"
 handle: cost-of-misfolding
 image: /assets/images/papers/misfolding-graph.png
 category: project
