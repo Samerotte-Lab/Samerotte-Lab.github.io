@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Devloping high-throuhgput phenotyping technology"
+title: "Devloping high-throughput phenotyping technology"
 handle: technology
 image: /assets/images/papers/verticallogo.png
 category: project
