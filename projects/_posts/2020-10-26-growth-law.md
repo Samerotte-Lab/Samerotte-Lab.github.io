@@ -2,7 +2,7 @@
 layout: project
 title: "Breaking the (growth) law"
 handle: growth law
-image: /assets/images/papers/growth_law.png.png
+image: /assets/images/papers/growth_law.png
 category: project
 tags: 
 ---
