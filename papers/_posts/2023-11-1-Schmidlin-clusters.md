@@ -2,7 +2,7 @@
 layout: paper
 title: "Distinguishing mutants that resist drugs via different mechanisms by examining fitness tradeoffs across hundreds of fluconazole-resistant yeast strains"
 year: "2023"
-shortref: "Schmidlin et al., bioRxiv, 2023"
+shortref: "Schmidlin et al. bioRxiv 2023"
 nickname: Clusters
 journal: "bioRxiv"
 volume: 
