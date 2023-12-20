@@ -13,5 +13,5 @@ Quantifying the myriad phenotypic impacts of genetic change at the molecular, ce
 <b>Relevant Papers:</b><br>
 <b>-</b>Optimizing an existing single-cell RNA sequencing platform for yeasts <b>[link](https://kgslab.org/papers/paper/Split-Seq)</b><br>
 <b>-</b>Designing an ultra-precise experiment to measure fitness <b>[link](https://kgslab.org/papers/paper/1bigbatch)</b><br>
-<b>-</b>A special issue on Best Practices in Microbial Evolution (link coming soon)
+<b>-</b>A special issue on Best Practices in Microbial Evolution <b>[link](https://kgslab.org/papers/paper/EE-perspective)</b><br>
 
