@@ -2,7 +2,7 @@
 layout: paper
 title: "Best practices in microbial experimental evolution"
 year: "2023"
-shortref: "Geiler-Samerotte and Lang, J. Mol. Evol., 2023"
+shortref: "Geiler-Samerotte & Lang, J. Mol. Evol., 2023"
 nickname: EE
 journal: "Journal of Molecular Evolution"
 volume: 
