@@ -2,14 +2,14 @@
 layout: paper
 title: "Distinguishing mutants that resist drugs via different mechanisms by examining fitness tradeoffs across hundreds of fluconazole-resistant yeast strains"
 year: "2023"
-shortref: "Schmidlin, Apodaca, Newell, Sastokas, Kinsler, Geiler-Samerotte, bioRxiv, 2023"
+shortref: "Schmidlin et al., bioRxiv, 2023"
 nickname: Clusters
 journal: "bioRxiv"
 volume: 
 issue: 
 pages: 
 authors: "Schmidlin, K., Apodaca, S., Newell, D., Sastokas, A., Kinsler, G., Geiler-Samerotte, K"
-image: /assets/images/papers/Flasks.png
+image: /assets/images/papers/Clusters.png
 pdf: https://www.biorxiv.org/content/10.1101/2023.10.17.562616v2.full.pdf
 pdflink: 
 github: 
