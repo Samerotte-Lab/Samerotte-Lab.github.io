@@ -7,4 +7,4 @@ image: /assets/images/team/Alex S.png
 category: news
 tags: [publication]
 ---
-Alex was awarded a prestigious SOLUR scholarship to conduct research in the KGS lab. Congratulations Alex!
+Alex Sastokas was awarded a prestigious SOLUR scholarship to conduct research in the KGS lab. Congratulations Alex!
