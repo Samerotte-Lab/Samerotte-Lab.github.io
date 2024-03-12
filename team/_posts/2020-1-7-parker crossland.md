@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Parker Crossland"
-position: Master's student
+position: PhD student
 handle: 
 nickname: 
 email: parkercro2001@gmail.com 
@@ -12,4 +12,4 @@ image: /assets/images/team/Parker.png
 alum: false
 hs: false
 ---
-Parker Crossland is a 4+1 Master's student in the School of Life Sciences at Arizona State University. 
+Parker Crossland is a PhD student in the School of Life Sciences at Arizona State University. 
