@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Kerry opens the complex trait genetics session at TAGC"
+title: "Kerry opens session at TAGC"
 author: "Kerry"
 author_handle: 
 image: /assets/images/team/KerryTAGC.png

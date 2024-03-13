@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "KGS Lab Presents our research at the Allied Genetics Conference"
+title: "KGS Lab presents at TAGC"
 author: "Kerry"
 author_handle: 
 image: /assets/images/team/Posters-TAGC.png
