@@ -3,7 +3,7 @@ layout: news
 title: "KGS Lab presents at TAGC"
 author: "Kerry"
 author_handle: 
-image: /assets/images/team/Posters-TAGC.png
+image: /assets/images/team/Posters-TAGC2.png
 category: news
 tags: [publication]
 ---
