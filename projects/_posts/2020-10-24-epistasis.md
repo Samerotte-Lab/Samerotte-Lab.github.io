@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Predicting epistasis"
+title: "Predicting gene and environment interactions"
 handle: epistasis
 image: /assets/images/papers/Network1.png
 category: project
