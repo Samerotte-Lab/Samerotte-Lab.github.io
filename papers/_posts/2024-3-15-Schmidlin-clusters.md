@@ -2,7 +2,7 @@
 layout: paper
 title: "Distinguishing mutants that resist drugs via different mechanisms by examining fitness tradeoffs"
 year: "2024"
-shortref: "Schmidlin et al. eLife 2024"
+shortref: "Schmidlin & Apodaca et al. eLife 2024"
 nickname: Clusters
 journal: "eLife"
 volume: 
