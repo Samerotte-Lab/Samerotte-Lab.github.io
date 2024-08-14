@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "KGS lab particiapte in Biobridge outreach"
+title: "KGS lab conducts outreach to improve diversity in science"
 author: "Kerry"
 author_handle: 
 image: /assets/images/team/biobridge.png
