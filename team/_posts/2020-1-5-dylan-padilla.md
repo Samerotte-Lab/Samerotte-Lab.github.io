@@ -13,4 +13,4 @@ image: /assets/images/team/Dylan2.png
 alum: true
 hs: false
 ---
-Dylan Padilla is a soon-to-be postdoctoral researcher who is visiting the KGS lab from our colleague Dr. Mike Angiletta's group.  
+Dylan Padilla was visiting the KGS lab from our colleague Dr. Mike Angiletta's group. He sucessfully defended his PhD thesis in 2024 and moved onto a postdoctoral position at Yale University.
