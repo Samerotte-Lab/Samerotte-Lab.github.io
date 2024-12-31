@@ -9,7 +9,7 @@ twitter:
 github: 
 scholar: 
 image: /assets/images/team/IsabellaVI.png
-alum: false
+alum: true
 hs: false
 ---
 Isabella Valli-Doherty is an undergraduate in the Ira Fulton School of Engineering and Barrett Honors College at Arizona State University. 
