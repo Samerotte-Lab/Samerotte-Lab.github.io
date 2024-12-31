@@ -2,6 +2,7 @@
 layout: member
 title: "Isabella Valli-Doherty"
 position: Undergraduate
+years: 2023 - 2024
 handle: 
 nickname: 
 email: ivallido@asu.edu 
