@@ -9,7 +9,7 @@ twitter: Dylan_Padilla94
 github: 
 scholar: https://scholar.google.com.br/citations?user=vMze9nIAAAAJ&hl=en
 image: /assets/images/team/Dylan2.png
-alum: false
+alum: true
 hs: false
 ---
 Dylan Padilla is a soon-to-be postdoctoral researcher who is visiting the KGS lab from our colleague Dr. Mike Angiletta's group.  
