@@ -8,7 +8,7 @@ journal: "bioRxiv"
 volume: 
 issue: 
 pages: 
-authors: "Schmidlin, K., Ogbunugafor, C. B., G., Geiler-Samerotte, K"
+authors: "Schmidlin, K., Ogbunugafor, C. B., Sastokas, A., Geiler-Samerotte, K"
 image: /assets/images/papers/DEmodel.png
 pdf: https://www.biorxiv.org/content/10.1101/2024.05.08.593194v2.full.pdf
 pdflink: 
