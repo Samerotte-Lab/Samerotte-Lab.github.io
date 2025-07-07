@@ -2,7 +2,7 @@
 layout: paper
 title: "INgen: Intracellular Genomic DNA Amplification for Downstream Applications in Sequencing and Sorting"
 year: "2025"
-shortref: "Crossland et al. bioRxiv 2025"
+shortref: "Crossland & Schmidlin et al. bioRxiv 2025"
 nickname: ingen
 journal: "bioRxiv"
 volume: 
