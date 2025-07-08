@@ -7,4 +7,4 @@ image: /assets/images/news/grc-posters.png
 category: news
 tags: [publication]
 ---
-Kara, Natalie, Alex, Rachel, Mohammad, Reza, and Leandra presented posters at the Gordon Conference on Molecular Mechanisms of Evolution in Eaaton, MA.
+Kara, Natalie, Alex, Rachel, Mohammad, Reza, and Leandra presented posters at the Gordon Conference on Molecular Mechanisms of Evolution in Easton, MA.
