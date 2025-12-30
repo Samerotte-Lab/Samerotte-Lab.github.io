@@ -55,8 +55,16 @@ navorder: 4
 		</div>
 		<div class="col-md-8">		
 			<div style="height:5px;"></div>			
-			{% if post.image %}
-			<a href="{{ post.url }}"><img width = 300 class="offset" src="{{ post.image }}"></a>
+			{% if post.video %}
+ 				<a href="{{ post.url }}">
+  					<video width="300" class="offset" muted playsinline>
+      					<source src="{{ post.video }}" type="video/mp4">
+    				</video>
+  				</a>
+			{% elsif post.image %}
+  				<a href="{{ post.url }}">
+    				<img width="300" class="offset" src="{{ post.image }}">
+  				</a>
 			{% endif %}
 			<div class="post">
 				{{ post.content }}
