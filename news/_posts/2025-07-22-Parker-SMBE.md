@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Parker gave a research talk at SMBE"
+title: "Parker gives a research talk at SMBE"
 author: "Kerry"
 author_handle: 
 image: /assets/images/news/Parker-SMBE.png
