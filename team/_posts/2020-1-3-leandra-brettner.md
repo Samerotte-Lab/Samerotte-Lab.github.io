@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Leandra Brettner"
-position: Postdoctoral Researcher
+position: Research Scientist
 handle: 
 nickname: 
 email: leandra.brettner@asu.edu

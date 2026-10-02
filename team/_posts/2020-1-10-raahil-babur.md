@@ -9,7 +9,7 @@ twitter:
 github: 
 scholar: 
 image: /assets/images/team/Raahil.png
-alum: false
+alum: true
 hs: false
 ---
 Raahil Babur is a freshman at ASU majoring in Biomedical Sciences with a focus on Genetics.

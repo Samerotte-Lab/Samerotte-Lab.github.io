@@ -9,7 +9,7 @@ twitter:
 github: 
 scholar: 
 image: /assets/images/team/Mansi.png
-alum: false
+alum: true
 hs: false
 ---
 Mansi Bhatt is a senior at Arizona State University majoring in Biomedical Sciences. As an undergraduate researcher and thesis student in the KGS lab, she is exploring how yeast cell fitness shifts across different evolutionary pressures, ranging from varying temperatures and salt concentrations to the presence or absence of drug treatments. Her work contributes to understanding how environmental factors influence cellular adaptation and selection over time.
