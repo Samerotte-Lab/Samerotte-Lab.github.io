@@ -7,4 +7,4 @@ image: /assets/images/news/Nat-Defends.png
 category: news
 tags: [publication]
 ---
-Huge congratulations Kara and Natalie!!
+Congratulations to Dr. Natalie Quan, PhD!
