@@ -1,9 +1,9 @@
 ---
 layout: news
-title: "Kara and Natalie Graduate with PhDs"
+title: "Natalie defends her PhD thesis"
 author: "Kerry"
 author_handle: 
-image: /assets/images/news/Graduation.png
+image: /assets/images/news/Nat-Defends.png
 category: news
 tags: [publication]
 ---

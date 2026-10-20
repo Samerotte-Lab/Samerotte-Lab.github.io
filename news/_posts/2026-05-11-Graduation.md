@@ -1,10 +1,10 @@
 ---
 layout: news
-title: "KGS lab judges at Regeneron ISEF"
+title: "Kara and Natalie graduate with PhDs"
 author: "Kerry"
 author_handle: 
-image: /assets/images/news/ISEF.png
+image: /assets/images/news/Graduation.png
 category: news
 tags: [publication]
 ---
-Judging lasted from 8AM until 8PM! 
+Huge congratulations to Kara and Natalie!!
