@@ -2,6 +2,7 @@
 layout: member
 title: "Alex Sastokas"
 position: Undergraduate
+years: 2022 - 2025
 handle: 
 nickname: 
 email: asastoka@asu.edu 

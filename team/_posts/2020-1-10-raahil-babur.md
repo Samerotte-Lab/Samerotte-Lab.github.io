@@ -2,6 +2,7 @@
 layout: member
 title: "Raahil Babur"
 position: Undergraduate
+years: 2024 - 2025
 handle: 
 nickname: 
 email: 
