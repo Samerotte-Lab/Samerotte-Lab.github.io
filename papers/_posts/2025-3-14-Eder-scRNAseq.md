@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "High-throughput single-cell transcriptomics data informs mechanisms underlying cell-to-cell differences in stress responses"
+title: "Unstressed cells are alike, but stressed cells differ: Environmental and single-cell heterogeneity in yeast stress responses"
 year: "2025"
 shortref: "Eder & Brettner et al. bioRxiv 2025"
 nickname: sc-stress
@@ -8,9 +8,9 @@ journal: "bioRxiv"
 volume: 
 issue: 
 pages: 
-authors: "Eder, R., Brettner, L., Geiler-Samerotte, K."
+authors: "Eder, R., Brettner, L., Schmidlin, K., Donyavi, M., Geiler-Samerotte, K."
 image: /assets/images/papers/sc-stress.png
-pdf: https://www.biorxiv.org/content/10.1101/2025.03.12.642837v1.full.pdf
+pdf: https://www.biorxiv.org/content/10.1101/2025.03.12.642837v3.full.pdf
 pdflink: 
 github: 
 pmid: 
@@ -27,5 +27,30 @@ tags:
 {% include JB/setup %}
 
 # Abstract 
-
-Over recent decades, studies of cell-to-cell heterogeneity have shown that meaningful variation in stress responses is an evolved trait, exemplified by bet hedging. Here, we expand upon this work by using a high-throughput single-cell transcriptomics approach in S. cerevisiae to study cell-to-cell variation in stress responses. We measured individual transcriptional profiles of over ten thousand cells subjected to two types of stress: protein misfolding (an intrinsic stress) and nutrient deprivation (an extrinsic stress). Doing so, we saw substantial heterogeneity in responses to stress across and within different conditions. A previously defined canonical stress response is elevated in all stressful conditions, making it useful as a barometer of stress. However, it does not include the majority of the genes that are the most upregulated in response to any of the stresses we study, suggesting stress responses vary across environments. On the other hand, the genes that were downregulated with stress show a much stronger overlap across conditions. Even more striking is the cell-to-cell heterogeneity we observed in stress responses where some stressed cells exhibit neither a canonical stress response nor a transcriptional response that matches most other cells in the same vessel. Further investigation of these cell-to-cell differences revealed a misconception of population-averaged data: While transposable elements (TEs) and chaperones both appear positively correlated with stress at the population level, single-cell analysis revealed they are actually anticorrelated. In other words, some stressed cells upregulate TEs, while others upregulate chaperones. One possible mechanism for this involves chaperones, such as Hsp90, which are thought to help to silence TEs but are unable to do so effectively when these chaperones become overwhelmed during stress. In sum, we have used a powerful single-cell transcriptomics approach to quantify stress-response heterogeneity and to shed light on the mechanisms underlying cell-to-cell variation in stress responses, both of which are crucial for understanding cell evolution and disease.
+Cellular stress responses are central to survival, adaptation, and disease, yet individual cells
+experiencing the same environment can differ substantially in how they respond. Understanding
+which features of the stress response are shared among cells, and which vary across cells and
+stressors, requires resolving transcriptional responses at the level of individual cells. Here, we
+used ultra-high-throughput single-cell RNA sequencing to profile more than 16,000
+Saccharomyces cerevisiae cells exposed to diverse stressors, including protein misfolding,
+nutrient limitation, and drug stress. We compared the canonical Environmental Stress Response
+(ESR), originally defined from population-level measurements, with stress-responsive programs
+identified by emphasizing expression changes that were consistent across individual cells.
+Although the canonical induced ESR (iESR) showed strong average activation in stressed
+populations, its activation varied substantially among their constituent cells. Stress-specific
+programs identified by our single-cell-aware analysis were more consistent predictors of
+individual cell stress, yet showed little overlap with the ESR or with one another across
+stressors. This stress-specificity was asymmetric: Induced programs varied considerably across
+stressors, whereas repressed programs were dominated by a conserved set of growth- and
+ribosome-related genes. Consequently, unstressed cells could be identified across
+environments much more reliably than stressed cells, revealing a transcriptional version of the
+Anna Karenina principle: Unstressed cells resemble one another in their shared growth
+programs, whereas stressed cells diverge in stress-specific ways. Single-cell resolution also
+revealed an alternative transcriptional state in which cells with weaker activation of canonical
+stress programs showed stronger transposable element (TE) expression. Although iESR and TE
+expression were positively associated across stressed populations, they were inversely related
+across individual cells, demonstrating that population averaging can obscure, and even reverse,
+relationships among transcriptional programs. Together, these results show that population-level
+and single-cell analyses capture complementary properties of stress responses. Both
+perspectives are important in understanding and ultimately predicting how cell populations
+survive and adapt under stressful conditions.
