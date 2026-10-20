@@ -8,7 +8,7 @@ email: ajmckinl@asu.edu
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/Ashley M.png
+image: /assets/images/team/Ashley_M.png
 alum: false
 hs: false
 ---
