@@ -1,10 +1,10 @@
 ---
 layout: news
-title: "Natalie defends her PhD thesis"
+title: "Kara and Natalie Graduate with PhDs"
 author: "Kerry"
 author_handle: 
-image: /assets/images/news/Nat-Defends.png
+image: /assets/images/news/Graduation.png
 category: news
 tags: [publication]
 ---
-Congratulations to Dr. Natalie Quan, PhD!
+Huge congratulations Kara and Natalie!!
