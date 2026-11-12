@@ -13,7 +13,7 @@ image: /assets/images/team/Kerry.png
 alum: false
 hs: false
 ---
-Kerry is an assistant professor in the [Biodesign Center for Mechanisms of Evolution](https://biodesign.asu.edu/research/centers/mechanisms-evolution) and the [School of Life Sciences](https://sols.asu.edu) at Arizona State University. 
+Kerry is an associate professor in the [Biodesign Center for Mechanisms of Evolution](https://biodesign.asu.edu/research/centers/mechanisms-evolution) and the [School of Life Sciences](https://sols.asu.edu) at Arizona State University. 
 
 Kerry earned a bachelor's degree from Cornell University in 2004 in Ecology and Evolutionary Biology, advised by Rick Harrison. She became enamored with the idea that small changes at the molecular level could have meaningful impacts. From this moment on she studied ideas related to understanding the impacts of genetic changes on cells, organisms and populations.
 
