@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Tracing mutations impacts through regulatory networks"
+title: "Tracing the impacts of mutations through regulatory networks"
 handle: correlations
 image: /assets/images/papers/pleiotropy.png
 category: project
