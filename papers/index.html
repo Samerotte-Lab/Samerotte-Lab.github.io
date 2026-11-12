@@ -6,11 +6,23 @@ group: navigation
 navorder: 3
 ---
 {% include JB/setup %}
+
 <div class="bigspacer"></div>
 <div class="bigtitle text-center">Publications</div>
 <div class="bigspacer"></div>
+
+{% assign sorted_papers = site.categories.papers | sort: "year" | reverse %}
+{% assign papers_by_year = sorted_papers | group_by: "year" %}
+
+{% for year_group in papers_by_year %}
+
+<div class="bigspacer"></div>
+<div class="head">{{ year_group.name }}</div>
+<hr/>
+<div class="bigspacer"></div>
+
 {% assign memberindex = 0 %}
-{% for paper in site.categories.papers %}
+{% for paper in year_group.items %}
   {% assign memberindex = memberindex | plus: 1 %}
   {% assign colindex = memberindex | modulo: 3 %}
   {% if colindex == 1 %} <!-- opening of a new row -->
@@ -62,5 +74,6 @@ navorder: 3
 </div><div class="bigspacer"></div>
 {% endif %}
 
+{% endfor %}
 
 <div class="bigspacer"></div>
