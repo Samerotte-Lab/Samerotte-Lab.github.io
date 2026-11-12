@@ -1,16 +1,17 @@
 ---
 layout: project
-title: "Breaking the (growth) law"
+title: "Predicting evolution in messy biological systems"
 handle: growth law
-image: /assets/images/papers/growthlaw.png
+image: /assets/images/papers/predicting_evolution_research_final.png
 category: project
 tags: 
 ---
 {% include JB/setup %}
 
-Countless studies have shown that the rate of cell growth correlates with many other phenotypes, including the amount of ribosomes being produced and cell size. These correlations, often called "growth laws", are powerful because they mean you can <b>predict some phenotypes from others</b>. But we've shown that these laws can be broken. For example, ribosome levels do not track growth rate across single cells, or when growth rate is depressed by misfolded proteins. Our goal is to better <b>understand when the growth laws predict phenotype</b> and under what contexts these laws are broken. Some of our work in this area involves single-cell RNA sequencing to find conditions where ribosome levels do not scale with growth rates. Other work involves evolution experiments that select on both cell size and cell growth rate in an effort to tease apart these two linked traits. Will we be able to <b>break the laws so we can understand more about when they enable predictions</b>?
+One of the biggest challenges in evolutionary biology is that mutations can affect many traits, and their fitness effects can change dramatically across environments and genetic backgrounds. How can we possibly predict evolution when biology is this messy? Our lab searches for **simple rules hidden within this complexity**. By measuring the fitness of hundreds of mutants across dozens of environments, we discovered that much of this variation can be explained by a surprisingly small number of underlying variables, which we call *phenotypic dimensions*. Importantly, these dimensions are useful: they allow us to successfully predict how mutants will perform in environments we haven't tested. We are now exploring whether similar approaches can help us predict genetic interactions and uncover relationships between genes, while addressing longstanding questions about how biological systems are organized and why some mutations have widespread effects while others have more limited consequences.
 
 <b>Relevant Papers:</b><br>
-<b>-</b>Ribosome levels do not scale with growth across single cells <b>[link](https://kgslab.org/papers/paper/Brettner-Ribo)</b><br>
-<b>-</b>Stress responsive transcripts predict stress level on average, but not for single cells <b>[link](https://kgslab.org/papers/paper/Eder-scRNAseq)</b><br>
-<b>-</b>Ribosome levels do not scale with growth when growth is slowed by misfolded proteins <b>[link](https://kgslab.org/papers/paper/proteomic-speedometer)</b>
+<b>-</b>Phenotypic modules underlying adaptation <b>[link](/papers/paper/Donyavi-GPM)</b><br>
+<b>-</b>Extent and context dependence of pleiotropy <b>[link](/papers/paper/extent-of-pleiotropy)</b><br>
+<b>-</b>Local modularity and global pleiotropy <b>[link](/papers/paper/local-modularity-global-pleiotropy)</b><br>
+<b>-</b>Fitness tradeoffs reveal distinct mechanisms of drug resistance <b>[link](/papers/paper/Schmidlin-clusters)</b>
