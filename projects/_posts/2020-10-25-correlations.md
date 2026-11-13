@@ -2,7 +2,7 @@
 layout: project
 title: "Revealing hidden biology through single-cell heterogeneity"
 handle: correlations
-image: /assets/images/papers/ultra_high_throughput_cellular_states.png
+image: /assets/images/papers/a_vertical_illustration_poster_with_a_clean_white.png
 category: project
 tags: 
 ---
