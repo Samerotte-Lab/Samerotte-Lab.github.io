@@ -2,7 +2,7 @@
 layout: project
 title: "Quantifying the fitness costs of protein misfolding"
 handle: cost-of-misfolding
-image: /assets/images/papers/misfolding-graph.png
+image: /assets/images/papers/misfolded_proteins_unequal_costs.png
 category: project
 tags: [evolution]
 ---

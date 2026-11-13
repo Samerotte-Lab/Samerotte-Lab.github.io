@@ -15,5 +15,4 @@ Our lab investigates whether seemingly different types of interactions follow co
 <b>Relevant Papers:</b><br>
 <b>-</b><b>[Interactions between environmental stresses depend on genotype](/papers/paper/Schmidlin-EEG)</b><br>
 <b>-</b><b>[Natural selection shapes which genetic interactions persist in populations](/papers/paper/Selection-transforms-Hsp90-interactions)</b><br>
-<b>-</b><b>[Apparent genetic buffering may reflect natural selection](/papers/paper/questioning-buffering)</b><br>
 <b>-</b><b>[The effects of genetic variation depend on biological context](/papers/paper/context-dependence-review)</b><br>
