@@ -1,19 +1,19 @@
 ---
 layout: project
-title: "Developing high-throughput phenotyping technology"
+title: "Developing technologies to measure evolution and cellular variation"
 handle: technology
-image: /assets/images/papers/verticallogo.png
+image: /assets/images/papers/ingen_cell_reaction_vessel_vertical.png
 category: project
 tags: [evolution]
 ---
 {% include JB/setup %}
 
-Quantifying the myriad phenotypic impacts of genetic change at the molecular, cellular and organismal levels, and doing so over and over in many different contexts, requires incredibly high-throughput phenotyping methods. We <b>develop phenotyping technology</b>, having thus far filed 6 patents, all of which list multiple lab members as inventors. Some of these methods pertain to new single-cell sequencing technology that allows combining DNA and RNA sequencing of the same cell. Other methods involve precisely quantifying the stability of thousands of protein variants at the same time. In addition to developing new methods, we also <b>implement, modify, and rigorously test</b> technologies created by other labs. For example, we have modified an inexpensive and highly multiplexable single-cell RNA sequencing platform for yeasts. We've also performed 79 technical replicates of a method to measure organismal fitness in order to determine how to achieve higher precision. We <b>care about reproducibility</b>, so we share what we learn through <b>[open science campaigns like #1BigBatch](https://twitter.com/hashtag/1BigBatch?src=hashtag_click)</b>, preprints, and special issues. Many of our methods employ DNA barcodes, represented in our lab logo to the left.
+Sometimes the biggest obstacle to answering a biological question is that the technology needed to answer it doesn't exist yet. Rather than letting those limitations dictate which questions we ask, **we build new tools to make previously inaccessible biology measurable.** Our lab has a small technology-development team working alongside our basic research projects, developing methods for high-throughput measurements of genetic and cellular variation. These efforts have generated multiple patent applications and technologies ranging from massively parallel protein stability measurements to new approaches for single-cell DNA and RNA sequencing.
+
+One particularly exciting example is INgen, our technology for amplifying DNA inside individual cells without first isolating them. This approach could eventually make it possible to sequence the genomes of enormous numbers of cells, including rare cell types that conventional methods struggle to capture. We are also exploring how to move promising technologies beyond the academic laboratory through patent protection, customer discovery, and entrepreneurship programs such as NSF I-Corps. Our goal is not simply to make existing experiments faster or cheaper, but to **enable entirely new kinds of biological questions**—both in our lab and across the broader scientific community.
 
 <b>Relevant Papers:</b><br>
-<b>-</b>Ingen: a breakthrough towards efficient single-cell DNA sequencing <b>[link](https://kgslab.org/papers/paper/Crossland-ingen)</b><br>
-<b>-</b>Optimizing an existing single-cell RNA sequencing platform for yeasts <b>[link](https://kgslab.org/papers/paper/Split-Seq)</b><br>
-<b>-</b>A novel system to identify mutations that disrupt protein stability <b>[link](https://kgslab.org/papers/paper/Quan-FCY1)</b><br>
-<b>-</b>Designing an ultra-precise experiment to measure fitness <b>[link](https://kgslab.org/papers/paper/1bigbatch)</b><br>
-
-
+<b>-</b><b>[Amplifying DNA inside cells opens new possibilities for high-throughput single-cell genomics](/papers/paper/Crossland-ingen)</b><br>
+<b>-</b><b>[A new experimental system measures the stability of thousands of protein variants](/papers/paper/Quan-FCY1)</b><br>
+<b>-</b><b>[Adapting combinatorial barcoding makes single-cell RNA sequencing accessible in yeast](/papers/paper/Split-Seq)</b><br>
+<b>-</b><b>[Careful experimental design dramatically improves the precision of fitness measurements](/papers/paper/1bigbatch)</b><br>
