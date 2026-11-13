@@ -13,7 +13,7 @@ One of the central challenges in genetics is that the combined effects of mutati
 Our lab investigates whether seemingly different types of interactions follow common patterns and can be understood using shared principles. For example, we discovered that even closely related mutants can respond remarkably differently to the same combination of drugs, revealing interactions between environmental factors that depend on genotype (E×E×G). Building on our earlier work on genetic buffering, Hsp90, and context-dependent phenotypic effects, we now seek to integrate genetic and environmental interaction data to identify relationships between genes, uncover the biological mechanisms underlying context dependence, and determine when general rules can predict the combined effects of multiple perturbations. Ultimately, we want to understand the general principles governing biological interactions and the extent to which those principles themselves depend on context.
 
 <b>Relevant Papers:</b><br>
-<b>-</b>Schmidlin et al. MBE 2025 — Environment by environment interactions (ExE) differ across genetic backgrounds (ExExG) <b>[link](/papers/paper/Schmidlin-EEG)</b><br>
-<b>-</b>Geiler-Samerotte et al. PLOS Biology 2016 — Selection transforms the landscape of genetic variation interacting with Hsp90 <b>[link](/papers/paper/Selection-transforms-Hsp90-interactions)</b><br>
-<b>-</b>Geiler-Samerotte et al. Cell Systems 2016 — Questioning buffering <b>[link](/papers/paper/questioning-buffering)</b><br>
-<b>-</b>Eguchi et al. Curr. Op. Genet. Dev. 2019 — Why and how to study genetic changes with context-dependent effects <b>[link](/papers/paper/context-dependence-review)</b><br>
+<b>-</b><b>[Interactions between environmental stresses depend on genotype](/papers/paper/Schmidlin-EEG)</b><br>
+<b>-</b><b>[Hsp90 alters how natural selection acts on genetic variation](/papers/paper/Selection-transforms-Hsp90-interactions)</b><br>
+<b>-</b><b>[Genetic buffering depends on how its effects are measured](/papers/paper/questioning-buffering)</b><br>
+<b>-</b><b>[The effects of genetic variation depend on biological context](/papers/paper/context-dependence-review)</b><br>

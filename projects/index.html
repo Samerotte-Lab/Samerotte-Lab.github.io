@@ -15,7 +15,7 @@ navorder: 1
 {% assign single_cell_project = site.categories.projects | where: "slug", "correlations" %}
 {% assign context_project = site.categories.projects | where: "slug", "epistasis" %}
 {% assign remaining_projects = site.categories.projects | where_exp: "project", "project.slug != 'growth-law'" | where_exp: "project", "project.slug != 'resistance'" | where_exp: "project", "project.slug != 'overview'" | where_exp: "project", "project.slug != 'correlations'" | where_exp: "project", "project.slug != 'epistasis'" %}
-{% assign ordered_projects = predicting_project | concat: environment_project | concat: single_cell_project | concat: overview_project | concat: context_project | concat: remaining_projects %}
+{% assign ordered_projects = predicting_project | concat: environment_project | concat: single_cell_project | concat: context_project | concat: remaining_projects | concat: overview_project %}
 {% for project in ordered_projects %}
 {% if project.title %}
 <div class="bigspacer"></div>
