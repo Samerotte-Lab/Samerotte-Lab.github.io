@@ -9,7 +9,12 @@ navorder: 1
 <!--<div class="bigspacer"></div>
 <div class="bigtitle text-center">Research Overview</div>
 <div class="bigspacer"></div>-->
-{% for project in site.categories.projects %}
+{% assign predicting_project = site.categories.projects | where: "slug", "growth-law" %}
+{% assign environment_project = site.categories.projects | where: "slug", "resistance" %}
+{% assign overview_project = site.categories.projects | where: "slug", "overview" %}
+{% assign remaining_projects = site.categories.projects | where_exp: "project", "project.slug != 'growth-law'" | where_exp: "project", "project.slug != 'resistance'" | where_exp: "project", "project.slug != 'overview'" %}
+{% assign ordered_projects = predicting_project | concat: environment_project | concat: overview_project | concat: remaining_projects %}
+{% for project in ordered_projects %}
 {% if project.title %}
 <div class="bigspacer"></div>
 <!--<div class="head text-center">{{ project.title }}</div>-->
