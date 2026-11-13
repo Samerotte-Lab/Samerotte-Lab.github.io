@@ -1,16 +1,19 @@
 ---
 layout: project
-title: "Predicting gene and environment interactions"
+title: "Understanding the context-dependent effects of mutations"
 handle: epistasis
-image: /assets/images/papers/Network1.png
+image: /assets/images/papers/context_dependent_genetic_interactions.png
 category: project
 tags: 
 ---
 {% include JB/setup %}
 
-Some genes or environments can <b>modify the impact of mutations</b>. For example, proteins that repress the activity of other proteins may also tend to repress the impacts of mutations. What are other rules that dictate whether one protein represses or enhances the impacts of mutations in another? Are epistasis (GxG) and other types of genetic interactions (e.g. ExG, ExExG) predictable? To <b>investigate rules that help predict genetic interactions</b>, my lab originally focused on the network of proteins that are regulated by the protein-folding chaperone, Hsp90. Hsp90 modifies the impacts of mutations in many genes, sometimes dampening these impacts but more often exaggerating them. Recently, we've begun exploring gene-by-environment interactions across drug resistant mutations. We strive to develop better models to predict the impacts of mutation and how these impacts change with genetic and environmental context. 
+One of the central challenges in genetics is that the combined effects of mutations are not always predictable from their individual effects. This phenomenon, known as *epistasis*, is one example of a broader class of biological interactions. Geneticists have traditionally studied gene-by-gene (G×G), genotype-by-environment (G×E), and higher-order interactions as distinct phenomena. But perhaps these are different manifestations of the same underlying principle: **the effects of genetic and environmental changes depend on context.**
+
+Our lab investigates whether seemingly different types of interactions follow common patterns and can be understood using shared principles. For example, we discovered that even closely related mutants can respond remarkably differently to the same combination of drugs, revealing interactions between environmental factors that depend on genotype (E×E×G). Building on our earlier work on genetic buffering, Hsp90, and context-dependent phenotypic effects, we now seek to integrate genetic and environmental interaction data to identify relationships between genes, uncover the biological mechanisms underlying context dependence, and determine when general rules can predict the combined effects of multiple perturbations. Ultimately, we want to understand the general principles governing biological interactions and the extent to which those principles themselves depend on context.
 
 <b>Relevant Papers:</b><br>
-<b>-</b>Drug resistant mutants have different environment-by-environment interactions <b>[link](https://kgslab.org/papers/paper/Schmidlin-EEG)</b><br>
-<b>-</b>Simple regulatory relationships predict direction of epistasis <b>[link](https://kgslab.org/papers/paper/canalization-review)</b><br>
-<b>-</b>Hsp90 interacts with mutations in diverse ways<b>[link](https://kgslab.org/papers/paper/Selection-transforms-Hsp90-interactions)</b>
+<b>-</b>Schmidlin et al. MBE 2025 — Environment by environment interactions (ExE) differ across genetic backgrounds (ExExG) <b>[link](/papers/paper/Schmidlin-EEG)</b><br>
+<b>-</b>Geiler-Samerotte et al. PLOS Biology 2016 — Selection transforms the landscape of genetic variation interacting with Hsp90 <b>[link](/papers/paper/Selection-transforms-Hsp90-interactions)</b><br>
+<b>-</b>Geiler-Samerotte et al. Cell Systems 2016 — Questioning buffering <b>[link](/papers/paper/questioning-buffering)</b><br>
+<b>-</b>Eguchi et al. Curr. Op. Genet. Dev. 2019 — Why and how to study genetic changes with context-dependent effects <b>[link](/papers/paper/context-dependence-review)</b><br>
